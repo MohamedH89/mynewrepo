@@ -1,10 +1,17 @@
 .Mo{
     color: aqua;
-    background-color: blueviolet;
-    font-size: 100px;
+    background-color: orange;
+   
 }
 .info{
     color: tomato;
     background-color: yellow;
     font-size: 20px;
+}
+.Mo1{
+    color: red;
+    background-color: aqua;
+}
+.myinfo{
+    background-color: indigo;
 }
